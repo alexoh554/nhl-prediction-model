@@ -817,6 +817,10 @@ OTT,5,MTL,4,False
 WSH,4,CBJ,3,False
 CAR,5,BUF,1,False
 BOS,5,TOR,2,False
+PAC,4,CEN,6,True
+MET,6,ATL,10,True
+CEN,5,ATL,7,True
+NYI,2,PHI,1,False
 TBL,1,FLA,7,True
 CGY,4,NYR,5,True
 VAN,4,NJD,5,True
